@@ -22,5 +22,9 @@ unique aspects:
     it is easily detectable by other night vision goggles that are sensitive to the IR spectrum. Since stealth is not a project goal, this is not
     a concern to me.
 
+  - portability:
+    While the mechanical design is not a primary focus in this project, I do want it to be portable and relativly compact
+    to simulate practical use case in aformentioned applications of night vision systems.
+
   - live vision stream:
     I want to implement wireless streaming from pi --> computer.
